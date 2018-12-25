@@ -33,6 +33,8 @@ contributors up to now:
 	Liu Yunhui
 	Gao Biao
 	Tang Suyao
+	Rivendell
+	Zhou Qingyi
 	肥猴输出平台
 	Wu Mingdong
 	Huang Xiaolong
