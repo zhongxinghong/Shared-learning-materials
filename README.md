@@ -30,7 +30,14 @@ Copyright Notice
 
 contributors up to now:
 
-	Liu Yunhui,Gao Biao,Tang Suyao,肥猴输出平台,Wu Mingdong,Huang Xiaolong,Chen Zhibin and so on
+	Liu Yunhui
+	Gao Biao
+	Tang Suyao
+	肥猴输出平台
+	Wu Mingdong
+	Huang Xiaolong
+	Chen Zhibin
+		and so on
 
 holder:
 
