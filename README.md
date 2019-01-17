@@ -39,6 +39,9 @@ contributors up to now:
 	Wu Mingdong
 	Huang Xiaolong
 	Chen Zhibin
+	Huang Xinyi
+	ayakoakai
+	Yin Xunjian
 		and so on
 
 holder:
