@@ -35,12 +35,13 @@ contributors up to now:
 	Tang Suyao
 	Rivendell
 	Zhou Qingyi
+	ayakoakai
+	Huang Xinyi
+	Andy He
 	肥猴输出平台
 	Wu Mingdong
 	Huang Xiaolong
 	Chen Zhibin
-	Huang Xinyi
-	ayakoakai
 	Yin Xunjian
 		and so on
 
