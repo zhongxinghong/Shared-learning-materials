@@ -59,3 +59,5 @@ administrators:
 		Huang Xiaolong
 		Zhang Zechen
 		Yin Xunjian
+		Zhu Yihang
+		Zhang Wenwei
